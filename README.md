@@ -19,7 +19,7 @@ Note: Do check which languages have been already solved before.
 - [x] Javascript
 - [x] Typescript
 - [x] C
-- [ ] C++
+- [x] C++
 - [ ] Java
 - [ ] PHP
 - [ ] Python
