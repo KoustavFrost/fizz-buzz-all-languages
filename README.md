@@ -20,7 +20,7 @@ Note: Do check which languages have been already solved before.
 - [x] Typescript
 - [x] C
 - [x] C++
-- [ ] Java
+- [x] Java
 - [ ] PHP
 - [ ] Python
 - [ ] C#
