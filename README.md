@@ -18,7 +18,7 @@ Note: Do check which languages have been already solved before.
 ## Languages done:
 - [x] Javascript
 - [x] Typescript
-- [ ] C
+- [x] C
 - [ ] C++
 - [ ] Java
 - [ ] PHP
