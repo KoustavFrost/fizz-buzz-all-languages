@@ -14,3 +14,26 @@ In this repo, I am planning to solve the fizz buzz problem in every programming 
 4. Make a PR to me.
 
 Note: Do check which languages have been already solved before.
+
+## Languages done:
+- [x] Javascript
+- [x] Typescript
+- [x] C
+- [x] C++
+- [ ] Java
+- [ ] PHP
+- [ ] Python
+- [ ] C#
+- [ ] Swift
+- [ ] Rust
+- [ ] Go
+- [ ] Kotlin
+- [ ] R
+- [ ] Ruby
+- [ ] Dart
+- [ ] Scala
+- [ ] Clojure
+- [ ] Haskel
+- [ ] Lua
+
+Let's pick the language from [here](https://en.wikipedia.org/wiki/List_of_programming_languages).
